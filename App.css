@@ -1,0 +1,13 @@
+.app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .chart-container {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
